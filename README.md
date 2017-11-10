@@ -6,7 +6,7 @@ Via remoteAPI na linguagem C++
 ## A classe *VrepToOpencv*
 tenta facilicar a comunicação entre o OpenCV e Vrep
 
-### um exemple de utilização está aqui:  
+### um exemplo de utilização está aqui:  
 https://github.com/samuel-cavalcanti/Toninho
 
 
